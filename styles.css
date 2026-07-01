@@ -79,7 +79,7 @@ body {
 }
 
 .spotify-btn:hover {
-  background-color: var(--spotify-text-bright);
+  background-color: var(--spotify-green);
   transform: scale(1.04);
 }
 
